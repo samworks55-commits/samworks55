@@ -1,7 +1,8 @@
 # TripleTen_projects
 Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
-Porject #1 / Music Genre Project / Status Report
+Project #1 / Music Genre Project / Status Report
+https://docs.google.com/spreadsheets/d/1GYoM44Is4OUQlym5fFR5FuP7OFCpNDfQObQxouyo1Vw/edit?usp=sharing
 /Status Report/ The Project task was to analyze user data and find possible causes for the company's listening patterns.
 The project was to prepare a report that gives insight on how to increase the amount of listeners in each category of music.
 Using line and bar graphs to make reccomendations to understand the trends in listeners.
